@@ -3,7 +3,7 @@
 ## To Start the Project follow the below steps
 
 ## Clone the Repo
-1. ```git clone https://github.com/JayJoshi4520/Project-DATA236-Tanu.git```
+1. ```git clone https://github.com/tanudatt/Project-DATA236-Tanu.git```
 2. ```cd Project-DATA236-Tanu```
 
 
